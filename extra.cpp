@@ -38,18 +38,6 @@ else if(bill>1000&& bill <=3000){
 else {
 	cout<<"High usage\n";
 }
-
-
-
-
-
-
-
-
-
-
-
-
 cout<<"\n\nDo you want to try again(y/n)";
 cout<<"\nEnter your choice: ";
 cin>>choice;
